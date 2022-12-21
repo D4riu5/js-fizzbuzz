@@ -18,5 +18,6 @@
     min-width: calc(72% / 7);
     aspect-ratio: 1 / 1;
     margin: 2%;
+    font-size: 1vw
 }
 
