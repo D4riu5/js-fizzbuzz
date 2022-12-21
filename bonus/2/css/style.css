@@ -21,3 +21,6 @@
     font-size: 1vw
 }
 
+.box:hover{
+    filter: contrast(600%);
+}
